@@ -14,7 +14,7 @@ RecipeHub is a recipe website where users can search for different kinds of reci
 
 ## View the app(Hosted on github pages)
 
--https://shreyasbirru.github.io/Recipe_App-/
+- https://shreyasbirru.github.io/RecipeHub-RecipeApp-/
 
 ## Technologies Used 
 
